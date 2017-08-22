@@ -1,0 +1,6 @@
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroWinForma.csprojResolveAssemblyReference.cache
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroWinForm.XeroWinForm.resources
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.Properties.Resources.resources
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroWinForma.csproj.GenerateResource.Cache
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.exe
+C:\Users\james.coleman\Documents\Visual Studio 2015\Projects\XeroWinForms\XeroProxy\obj\Debug\XeroProxy.pdb
